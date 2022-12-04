@@ -1,17 +1,16 @@
-## Oiii eu sou o @Thalles-HsA, Full Stack Devolper
-
-- 🎓 Cursando o 2º periodo de Ciências da Computação;
-- 🌱 Atualmente desenvolvendo um app de controle de estoque para vendedores do Mercado Livre;
-- 🎯 Trabalhando como FullStack Developer;
-
-
+## Olá eu sou o Thalles Henrique, bem-vindo(a) ao meu GitHub
 
 <div align="center">
   <a href="https://github.com/Thalles-HsA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thalles-HsA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalles-HsA&exclude_repo=github-readme-stats,Pong,Freeway-JS&langs_count=5&theme=radical"/>
-</div>
-  
+</div><br>
+
+  - 🎓 Cursando o 2º periodo de Ciências da Computação;
+  - 🌱 Atualmente desenvolvendo um app de controle de estoque para vendedores do Mercado Livre;
+  - 🎯 Atuando como Front-end Developer;
+  - 💻 Visite meu [Web Portifólio](https://thalles-hsa.github.io/Meu-Portifolio/)
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thalles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thalles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
