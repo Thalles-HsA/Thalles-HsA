@@ -2,7 +2,7 @@
 
 - 🎓 Cursando o 2º periodo de Ciências da Computação;
 - 🌱 Atualmente desenvolvendo um app de controle de estoque para vendedores do Mercado Livre;
-- 🎯 Trabalhando como FullStack Devoloper;
+- 🎯 Trabalhando como FullStack Developer;
 
 
 
