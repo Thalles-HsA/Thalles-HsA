@@ -9,7 +9,7 @@
   - 🎓 Cursando o 2º periodo de Ciências da Computação;
   - 🌱 Atualmente desenvolvendo um app de controle de estoque para vendedores do Mercado Livre;
   - 🎯 Atuando como Front-end Developer;
-  - 💻 Visite meu [Web Portifólio]([https://thalles-hsa.github.io/Meu-Portifolio/](https://thalles-hsa.github.io/meu-portifolio-react/))
+  - 💻 Visite meu [Web Portifólio](https://thalles-hsa.github.io/Meu-Portifolio/)
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Thalles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
