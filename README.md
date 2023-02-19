@@ -9,7 +9,7 @@
   - 🎓 Cursando o 2º periodo de Ciências da Computação;
   - 🌱 Atualmente desenvolvendo um app de controle de estoque para vendedores do Mercado Livre;
   - 🎯 Atuando como Front-end Developer;
-  - 💻 Visite meu [Web Portifólio](https://thalles-hsa.github.io/Meu-Portifolio/)
+  - 💻 Visite meu [Web Portifólio]([https://thalles-hsa.github.io/Meu-Portifolio/](https://thalles-hsa.github.io/meu-portifolio-react/))
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Thalles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,6 +17,8 @@
   <img align="center" alt="Thalles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thalles-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thalles-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Thalles-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Thalles-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   
 </div>
 
