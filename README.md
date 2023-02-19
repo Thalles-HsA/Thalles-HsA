@@ -8,7 +8,7 @@
 
   - 🎓 Cursando o 2º periodo de Ciências da Computação;
   - 🌱 Atualmente desenvolvendo um app de controle de estoque para vendedores do Mercado Livre;
-  - 🎯 Atuando como Front-end Developer;
+  - 🎯 Atuando como Full-Stack Developer;
   - 💻 Visite meu [Web Portifólio](https://thalles-hsa.github.io/meu-portifolio-react/)
  
 <div style="display: inline_block"><br>
