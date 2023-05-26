@@ -7,7 +7,6 @@
 </div><br>
   
   <!--START_SECTION:waka-->
-  SHOW_COMMIT
   <!--END_SECTION:waka-->
 
   - 🎓 Cursando o 2º periodo de Ciências da Computação;
