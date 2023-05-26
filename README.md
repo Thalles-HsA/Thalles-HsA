@@ -5,6 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thalles-HsA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalles-HsA&exclude_repo=github-readme-stats,Pong,Freeway-JS&langs_count=5&theme=radical"/>
 </div><br>
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
   - 🎓 Cursando o 2º periodo de Ciências da Computação;
   - 🌱 Atualmente desenvolvendo um app de controle de estoque para vendedores do Mercado Livre;
