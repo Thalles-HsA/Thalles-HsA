@@ -7,7 +7,17 @@
 </div><br>
   
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+From: 26 May 2023 - To: 27 May 2023
+
+Total Time: 6 mins
+
+TypeScript   6 mins          ████████████████████████▒   96.84 %
+CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+```
+
+<!--END_SECTION:waka-->
 
   - 🎓 Cursando o 2º periodo de Ciências da Computação;
   - 🌱 Atualmente desenvolvendo um app de controle de estoque para vendedores do Mercado Livre;
