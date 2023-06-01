@@ -9,12 +9,12 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2023 - To: 29 May 2023
+From: 26 May 2023 - To: 30 May 2023
 
-Total Time: 6 mins
+Total Time: 17 mins
 
-TypeScript   6 mins          ████████████████████████▒   96.84 %
-CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+TypeScript   10 mins         ███████████████▓░░░░░░░░░   62.79 %
+CSS          6 mins          █████████▒░░░░░░░░░░░░░░░   37.21 %
 ```
 
 <!--END_SECTION:waka-->
