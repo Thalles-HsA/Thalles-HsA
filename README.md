@@ -29,8 +29,7 @@ Git Config   2 mins          ░░░░░░░░░░░░░░░░░
 
   - 🎓 Cursando o 1º periodo de Analise e Desenvolviemnte de Sistema;
   - 🌱 Atualmente desenvolvendo um ecommerce de um trabalho frelancer;
-  - 🎯 Atuando como Full-Stack Developer;
-  - 💻 Visite meu [Web Portifólio](https://thalles-hsa.github.io/meu-portifolio-react/)
+  - 🎯 Atuando como FullStack Developer;
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Thalles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
