@@ -27,7 +27,7 @@ Git Config   2 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-  - 🎓 Cursando o 2º periodo de Ciências da Computação;
+  - 🎓 Cursando o 1º periodo de Analise e Desenvolviemnte de Sistema;
   - 🌱 Atualmente desenvolvendo um app de controle de estoque para vendedores do Mercado Livre;
   - 🎯 Atuando como Full-Stack Developer;
   - 💻 Visite meu [Web Portifólio](https://thalles-hsa.github.io/meu-portifolio-react/)
