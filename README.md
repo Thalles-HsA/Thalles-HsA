@@ -27,8 +27,8 @@ ActionScript 3   14 mins         ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-  - 🎓 Cursando o 1º periodo de Analise e Desenvolviemnte de Sistema;
-  - 🌱 Atualmente desenvolvendo um ecommerce de um trabalho frelancer;
+  - 🎓 Cursando Analise e Desenvolviemnte de Sistema;
+  - 🌱 Trabalhando para @Selaz;
   - 🎯 Atuando como FullStack Developer;
  
 <div style="display: inline_block"><br>
