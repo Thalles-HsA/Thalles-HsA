@@ -9,20 +9,20 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2023 - To: 13 October 2023
+From: 26 May 2023 - To: 14 October 2023
 
-Total Time: 344 hrs 10 mins
+Total Time: 347 hrs 55 mins
 
-TypeScript       223 hrs 21 mins ████████████████▒░░░░░░░░   64.90 %
-JavaScript       70 hrs 46 mins  █████░░░░░░░░░░░░░░░░░░░░   20.56 %
-SCSS             30 hrs 2 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-JSON             8 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Bash             5 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Java             3 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-CSS              1 hr 19 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Other            37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-TSConfig         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-ActionScript 3   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript        223 hrs 21 mins ████████████████░░░░░░░░░   64.20 %
+JavaScript        70 hrs 46 mins  █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+SCSS              30 hrs 2 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+JSON              8 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Java              5 hrs 58 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Bash              5 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+CSS               1 hr 19 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+XML               47 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other             37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Java Properties   28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
