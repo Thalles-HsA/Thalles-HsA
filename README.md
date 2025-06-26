@@ -9,19 +9,19 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2023 - To: 25 June 2025
+From: 26 May 2023 - To: 26 June 2025
 
-Total Time: 1,021 hrs 29 mins
+Total Time: 1,021 hrs 48 mins
 
-TypeScript           438 hrs 44 mins ██████████▓░░░░░░░░░░░░░░   42.95 %
-Java                 319 hrs 15 mins ███████▓░░░░░░░░░░░░░░░░░   31.25 %
+TypeScript           438 hrs 47 mins ██████████▓░░░░░░░░░░░░░░   42.94 %
+Java                 319 hrs 15 mins ███████▓░░░░░░░░░░░░░░░░░   31.24 %
 JavaScript           70 hrs 49 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
 HTML                 35 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 SCSS                 33 hrs 40 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 JSON                 27 hrs 22 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 Other                15 hrs 23 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Java Properties      13 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 Python               12 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Java Properties      12 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 YAML                 12 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
