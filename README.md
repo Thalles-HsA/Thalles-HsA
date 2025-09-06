@@ -9,20 +9,20 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2023 - To: 05 September 2025
+From: 26 May 2023 - To: 06 September 2025
 
-Total Time: 1,178 hrs 42 mins
+Total Time: 1,184 hrs 50 mins
 
-TypeScript           487 hrs 6 mins  ██████████▒░░░░░░░░░░░░░░   41.33 %
-Java                 402 hrs 24 mins ████████▓░░░░░░░░░░░░░░░░   34.14 %
-JavaScript           71 hrs 7 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-HTML                 43 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-SCSS                 34 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-JSON                 27 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Other                17 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+TypeScript           492 hrs 18 mins ██████████▒░░░░░░░░░░░░░░   41.55 %
+Java                 403 hrs 19 mins ████████▓░░░░░░░░░░░░░░░░   34.04 %
+JavaScript           71 hrs 7 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+HTML                 43 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+SCSS                 34 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+JSON                 27 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Other                17 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 YAML                 14 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Python               13 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Java Properties      13 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Python               13 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Java Properties      13 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
