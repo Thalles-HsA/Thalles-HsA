@@ -9,12 +9,12 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2023 - To: 06 October 2025
+From: 26 May 2023 - To: 07 October 2025
 
-Total Time: 1,300 hrs
+Total Time: 1,300 hrs 16 mins
 
-TypeScript           527 hrs 38 mins ██████████░░░░░░░░░░░░░░░   40.59 %
-Java                 437 hrs 23 mins ████████▒░░░░░░░░░░░░░░░░   33.65 %
+TypeScript           527 hrs 53 mins ██████████░░░░░░░░░░░░░░░   40.60 %
+Java                 437 hrs 23 mins ████████▒░░░░░░░░░░░░░░░░   33.64 %
 JavaScript           71 hrs 20 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
 HTML                 52 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 SCSS                 34 hrs 9 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
