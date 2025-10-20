@@ -6,6 +6,8 @@ Tech Lead @ Selaz • Java & Angular • Backend Spring Boot • Frontend Angula
 - 🎯 Atuando como Tech Lead e apoiando arquitetura, dev e QA
 - 🚀 Foco em código limpo, testes e entrega contínua
 
+  ---
+
   <!--START_SECTION:waka-->
 
 ```txt
@@ -27,7 +29,7 @@ YAML                 15 hrs 23 mins  ▒░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
+---
  
 ### Stack & Ferramentas
 
