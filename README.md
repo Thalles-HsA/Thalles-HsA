@@ -1,4 +1,10 @@
-## Olá eu sou o Thalles Henrique, bem-vindo(a) ao meu GitHub
+## Olá! Eu sou o Thalles Almeida
+
+Tech Lead @ Selaz • Java & Angular • Backend Spring Boot • Frontend Angular • PostgreSQL • AWS • qualidade e compliance (ISO 13485 / IEC 62304)
+
+- 🎓 Cursando MBA em Engenharia de Software (USP/Esalq)
+- 🎯 Atuando como Tech Lead e apoiando arquitetura, dev e QA
+- 🚀 Foco em código limpo, testes e entrega contínua
 
   <!--START_SECTION:waka-->
 
@@ -21,26 +27,32 @@ YAML                 15 hrs 23 mins  ▒░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-  - 🎓 Cursando MBA Engenharia de Software USP/Esalq;
-  - 🌱 Trabalhando para @Selaz;
-  - 🎯 Atuando como Tech Lead;
+
  
+### Stack & Ferramentas
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thalles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thalles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thalles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thalles-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Thalles-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Thalles-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Thalles-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  
+  <!-- Linguagens / Frameworks -->
+  <img align="center" alt="Thalles-Angular" title="Angular" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Thalles-TS" title="TypeScript" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Thalles-Java" title="Java" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Thalles-Python" title="Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Thalles-React" title="React" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Thalles-Node" title="Node.js" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <!-- Banco / Infra -->
+  <img align="center" alt="Thalles-PostgreSQL" title="PostgreSQL" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Thalles-Mongo" title="MongoDB" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
- ##
+---
+
+### Onde me encontrar
   
 <div>
-  <a href="https://www.linkedin.com/in/thalles-hsa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/thalleshsa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thsa.henrique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
+  <a href="https://www.linkedin.com/in/thalles-hsa" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:thsa.henrique@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
