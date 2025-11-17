@@ -11,7 +11,7 @@ Tech Lead @ Selaz • Java & Angular • Backend Spring Boot • Frontend Angula
   <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2023 - To: 16 November 2025
+From: 26 May 2023 - To: 17 November 2025
 
 Total Time: 1,329 hrs 46 mins
 
