@@ -11,20 +11,20 @@ Tech Lead @ Selaz • Java & Angular • Backend Spring Boot • Frontend Angula
   <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2023 - To: 30 March 2026
+From: 26 May 2023 - To: 31 March 2026
 
-Total Time: 1,684 hrs 25 mins
+Total Time: 1,693 hrs 19 mins
 
-Java                 653 hrs 51 mins       █████████▓░░░░░░░░░░░░░░░   38.82 %
-TypeScript           606 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.98 %
-JavaScript           71 hrs 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Other                67 hrs 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-HTML                 61 hrs 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-SCSS                 38 hrs 16 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-SQL                  32 hrs 46 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-JSON                 31 hrs 43 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Python               16 hrs 38 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-YAML                 16 hrs 16 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Java                 661 hrs 2 mins        █████████▓░░░░░░░░░░░░░░░   39.04 %
+TypeScript           606 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.84 %
+JavaScript           71 hrs 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Other                68 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+HTML                 62 hrs 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+SCSS                 38 hrs 16 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+SQL                  32 hrs 46 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+JSON                 31 hrs 43 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Python               16 hrs 38 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+YAML                 16 hrs 16 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
